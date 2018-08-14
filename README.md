@@ -1,2 +1,3 @@
 # radd_server
-Roberto and Adam Development Design Server/Backend
+Running the server: mv spring-boot:run
+Deployed server: localhost:8080/user/all (should show the user)
